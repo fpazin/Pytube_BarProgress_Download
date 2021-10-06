@@ -9,7 +9,7 @@ A barra de progresso também foi adicionado...
 ---------------------------------------------------------------------------------------------------
 Download Videos from YouTube with 1 or more URLs. 
 
-Mandatory Pytube libery install (https://pytube.io/en/latest/user/install.html)
+Mandatory Pytube library install (https://pytube.io/en/latest/user/install.html)
     
     _pip install pytube
 
